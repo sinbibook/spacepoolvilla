@@ -1,6 +1,6 @@
 /* CDN Fonts */
 @import url('https://hangeul.pstatic.net/hangeul_static/css/maru-buri.css');
-@import url('https://fonts.cdnfonts.com/css/gloock-2');
+@import url('https://fonts.cdnfonts.com/css/rughato-wacner');
 
 /* Font Faces */
 @font-face {
@@ -14,7 +14,7 @@
 :root {
   --font-ko-main: 'GyeonggiMillenniumBackground', sans-serif;
   --font-ko-sub: 'MaruBuri', sans-serif;
-  --font-en-main: 'Gloock', sans-serif;
+  --font-en-main: 'UGHATO WACNER', sans-serif;
   --color-primary: #FFFFFF;
   --color-secondary: #101F7B;
 }
