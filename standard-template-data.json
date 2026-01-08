@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-01-08T07:25:18.037Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-01-08T07:42:46.157Z",
     "templateType": "fullpage_scroll",
     "propertyId": "515b30ce-fff1-4b10-92d1-6a59e09e3d66",
     "homepageId": "6cfb0351-e290-43e7-a88f-43ffccd118c8"
@@ -385,8 +385,8 @@
     {
       "id": "1f920a0a-6582-4f5e-b706-0e4cd1fc3ce0",
       "name": "스페이스풀빌라01(독채, 개별바베큐)",
-      "description": "독채 (개별바베큐, 개별수영장 제공)\n\n[인원추가(1박기준/현장결제)]\n- 만 20세 이상 성인 1인 20,000원\n- 만 8세 이상~만 19세 이하 아동 1인 10,000원\n- 0세~만 7세 이하 유아 무료\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
-      "roomInfo": "",
+      "description": "",
+      "roomInfo": "독채 (개별바베큐, 개별수영장 제공)\n\n[인원추가(1박기준/현장결제)]\n- 만 20세 이상 성인 1인 20,000원\n- 만 8세 이상~만 19세 이하 아동 1인 10,000원\n- 0세~만 7세 이하 유아 무료\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
       "group": null,
       "size": 82,
       "baseOccupancy": 2,
@@ -631,8 +631,8 @@
     {
       "id": "a5be2734-b96f-4e40-88b0-14bd9738fe57",
       "name": "스페이스풀빌라02(독채, 개별바베큐)",
-      "description": "독채 (개별바베큐, 개별수영장 제공)\n\n[인원추가(1박기준/현장결제)]\n- 만 20세 이상 성인 1인 20,000원\n- 만 8세 이상~만 19세 이하 아동 1인 10,000원\n- 0세~만 7세 이하 유아 무료\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
-      "roomInfo": "",
+      "description": "\n",
+      "roomInfo": "독채 (개별바베큐, 개별수영장 제공)\n\n[인원추가(1박기준/현장결제)]\n- 만 20세 이상 성인 1인 20,000원\n- 만 8세 이상~만 19세 이하 아동 1인 10,000원\n- 0세~만 7세 이하 유아 무료\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
       "group": null,
       "size": 82,
       "baseOccupancy": 2,
@@ -884,8 +884,8 @@
     {
       "id": "f4f71766-dd06-4233-8183-9421858a972f",
       "name": "스페이스풀빌라03(독채, 개별바베큐)",
-      "description": "독채 (개별바베큐, 개별수영장 제공)\n\n[인원추가(1박기준/현장결제)]\n- 만 20세 이상 성인 1인 20,000원\n- 만 8세 이상~만 19세 이하 아동 1인 10,000원\n- 0세~만 7세 이하 유아 무료\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
-      "roomInfo": "",
+      "description": "\n",
+      "roomInfo": "독채 (개별바베큐, 개별수영장 제공)\n\n[인원추가(1박기준/현장결제)]\n- 만 20세 이상 성인 1인 20,000원\n- 만 8세 이상~만 19세 이하 아동 1인 10,000원\n- 0세~만 7세 이하 유아 무료\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
       "group": null,
       "size": 82,
       "baseOccupancy": 2,
@@ -1123,8 +1123,8 @@
     {
       "id": "d0686353-cd24-498e-b31d-59d2ab8f3d02",
       "name": "스페이스풀빌라04(독채, 개별바베큐)",
-      "description": "독채 (개별바베큐, 개별수영장 제공)\n\n[인원추가(1박기준/현장결제)]\n- 만 20세 이상 성인 1인 20,000원\n- 만 8세 이상~만 19세 이하 아동 1인 10,000원\n- 0세~만 7세 이하 유아 무료\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
-      "roomInfo": "",
+      "description": "\n",
+      "roomInfo": "독채 (개별바베큐, 개별수영장 제공)\n\n[인원추가(1박기준/현장결제)]\n- 만 20세 이상 성인 1인 20,000원\n- 만 8세 이상~만 19세 이하 아동 1인 10,000원\n- 0세~만 7세 이하 유아 무료\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
       "group": null,
       "size": 82,
       "baseOccupancy": 2,
@@ -1362,8 +1362,8 @@
     {
       "id": "d51268c4-8d04-439b-bc1d-387312a8ef18",
       "name": "스페이스풀빌라05(독채, 개별바베큐) ",
-      "description": "독채 (개별바베큐, 개별수영장 제공)\n\n[인원추가(1박기준/현장결제)]\n- 만 20세 이상 성인 1인 20,000원\n- 만 8세 이상~만 19세 이하 아동 1인 10,000원\n- 0세~만 7세 이하 유아 무료\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
-      "roomInfo": "",
+      "description": "\n",
+      "roomInfo": "독채 (개별바베큐, 개별수영장 제공)\n\n[인원추가(1박기준/현장결제)]\n- 만 20세 이상 성인 1인 20,000원\n- 만 8세 이상~만 19세 이하 아동 1인 10,000원\n- 0세~만 7세 이하 유아 무료\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
       "group": null,
       "size": 82,
       "baseOccupancy": 2,
@@ -1742,21 +1742,21 @@
                   {
                     "id": "641ee1f0-4ea7-4494-923b-5a5fdfa51846",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767839609249-7zuf01d1mbh.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "ab235720-a101-4aa6-b092-bc3c5015ba1e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767839609250-0eqfx6radi2p.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "67f00048-a81b-4367-942d-491f97484358",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767839609250-em5ihcig06.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   }
