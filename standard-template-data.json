@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-01-08T07:42:46.157Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-01-08T08:59:00.664Z",
     "templateType": "fullpage_scroll",
     "propertyId": "515b30ce-fff1-4b10-92d1-6a59e09e3d66",
     "homepageId": "6cfb0351-e290-43e7-a88f-43ffccd118c8"
@@ -1637,73 +1637,73 @@
                 "title": "경주 스페이스 독채 풀빌라",
                 "images": [
                   {
-                    "id": "f7157184-cd73-4467-aa57-e9ae10559134",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-hz7f0iipvdf.jpg",
-                    "sortOrder": 0,
-                    "description": "독채 외부",
-                    "isSelected": true
-                  },
-                  {
                     "id": "72a609e3-c8a9-44e2-bbeb-9e7eeaae5dc8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-o6hetr4cof.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "야외 전경",
                     "isSelected": true
                   },
                   {
-                    "id": "126f350f-f696-43d9-9841-1a2c58602ce8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-uij3qnxlbh.jpg",
-                    "sortOrder": 2,
-                    "description": "외부 테라스",
+                    "id": "bcffd852-7a9b-4581-8156-7303d5783bef",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767862477827-xy8zwjz7eog.jpg",
+                    "sortOrder": 1,
+                    "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "fd8d748a-204f-4171-a42d-7309b628462e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767685329876-ccljo56eoud.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "숙소 내부",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "b386aed1-2396-4cd2-93bc-0393a7205881",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767685329876-3kb5c8sgnu6.jpg",
-                    "sortOrder": 4,
-                    "description": "객실 내부 전망",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "1035f94e-013e-474a-bcbe-ca72681ef46d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767685329876-yn7bm7on01s.jpg",
-                    "sortOrder": 5,
-                    "description": "객실 베드",
                     "isSelected": true
                   },
                   {
                     "id": "7139bad3-b343-4dd9-945a-9826d498450e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767685329877-6p0i1peuf8j.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 3,
                     "description": "스카이뷰",
                     "isSelected": true
                   },
                   {
-                    "id": "3e9ce5d0-2358-4532-abe7-667777840e6f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767685329877-kvixdxvodwn.jpg",
-                    "sortOrder": 7,
-                    "description": "외부 테라스2",
+                    "id": "f3039726-c415-4ccd-9121-4ba07c0a4a05",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767862526976-qotnpwvj9k.jpg",
+                    "sortOrder": 4,
+                    "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "7c530099-cdf9-4d42-923e-1eb9f2c19905",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-1oj2yft76df.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 5,
                     "description": "야간 외부 조명 점등",
                     "isSelected": true
                   },
                   {
-                    "id": "3ff63333-c1cd-43c0-a96a-8443a66bdb89",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-tciezmkd6dd.jpg",
+                    "id": "1035f94e-013e-474a-bcbe-ca72681ef46d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767685329876-yn7bm7on01s.jpg",
+                    "sortOrder": 6,
+                    "description": "객실 베드",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "b386aed1-2396-4cd2-93bc-0393a7205881",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767685329876-3kb5c8sgnu6.jpg",
+                    "sortOrder": 7,
+                    "description": "객실 내부 전망",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "126f350f-f696-43d9-9841-1a2c58602ce8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-uij3qnxlbh.jpg",
+                    "sortOrder": 8,
+                    "description": "외부 테라스",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "3e9ce5d0-2358-4532-abe7-667777840e6f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767685329877-kvixdxvodwn.jpg",
                     "sortOrder": 9,
-                    "description": "야간 외부 조명 점등2",
+                    "description": "외부 테라스2",
                     "isSelected": true
                   },
                   {
@@ -1711,6 +1711,20 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-wm2kw0m26e.jpg",
                     "sortOrder": 10,
                     "description": "풀빌라 전경",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f7157184-cd73-4467-aa57-e9ae10559134",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-hz7f0iipvdf.jpg",
+                    "sortOrder": 11,
+                    "description": "독채 외부",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "3ff63333-c1cd-43c0-a96a-8443a66bdb89",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-tciezmkd6dd.jpg",
+                    "sortOrder": 12,
+                    "description": "야간 외부 조명 점등2",
                     "isSelected": true
                   }
                 ],
@@ -1733,30 +1747,37 @@
                 "title": "우리만의 공간, 방해 없는 완벽한 휴식",
                 "images": [
                   {
+                    "id": "db9e8c97-528c-431d-8f66-9c2db27334f3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767862690631-suc0thu5f1.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "55e01a61-18ef-4b6c-b5de-e9fd27352264",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767839609250-kx50f6h4mbh.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "641ee1f0-4ea7-4494-923b-5a5fdfa51846",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767839609249-7zuf01d1mbh.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "ab235720-a101-4aa6-b092-bc3c5015ba1e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767839609250-0eqfx6radi2p.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "67f00048-a81b-4367-942d-491f97484358",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767839609250-em5ihcig06.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   }
