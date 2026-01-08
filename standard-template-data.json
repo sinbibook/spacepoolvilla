@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-01-07T03:34:54.526Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-01-08T02:35:39.017Z",
     "templateType": "fullpage_scroll",
     "propertyId": "515b30ce-fff1-4b10-92d1-6a59e09e3d66",
     "homepageId": "6cfb0351-e290-43e7-a88f-43ffccd118c8"
@@ -1606,17 +1606,17 @@
                 "title": "경주 스페이스 독채 풀빌라",
                 "images": [
                   {
-                    "id": "72a609e3-c8a9-44e2-bbeb-9e7eeaae5dc8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-o6hetr4cof.jpg",
+                    "id": "f7157184-cd73-4467-aa57-e9ae10559134",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-hz7f0iipvdf.jpg",
                     "sortOrder": 0,
-                    "description": "야외 전경",
+                    "description": "독채 외부",
                     "isSelected": true
                   },
                   {
-                    "id": "f7157184-cd73-4467-aa57-e9ae10559134",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-hz7f0iipvdf.jpg",
+                    "id": "72a609e3-c8a9-44e2-bbeb-9e7eeaae5dc8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_hero/1767670070546-o6hetr4cof.jpg",
                     "sortOrder": 1,
-                    "description": "독채 외부",
+                    "description": "야외 전경",
                     "isSelected": true
                   },
                   {
@@ -1686,7 +1686,7 @@
                 "description": "방해받지 않는 하루, 자연과 가장 가까운 쉼"
               },
               "closing": {
-                "title": "-",
+                "title": "",
                 "images": [
                   {
                     "id": "9903a34c-387f-4c38-8ea8-59dce79a8b68",
@@ -1699,38 +1699,38 @@
                 "description": "조용히 쉬고 싶을 때, 이유가 필요 없는 공간"
               },
               "essence": {
-                "title": "단독 바베큐장과 풀장까지",
+                "title": "우리만의 공간, 방해 없는 완벽한 휴식",
                 "images": [
                   {
-                    "id": "3df39c1a-a611-4900-a930-ad69eb645855",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767670874001-6p5alsfse9t.jpg",
+                    "id": "641ee1f0-4ea7-4494-923b-5a5fdfa51846",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767839609249-7zuf01d1mbh.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "8a6fc598-3d5d-4e1f-97fe-100c0d0d60c4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767670874001-1tzacxfst8d.jpg",
+                    "id": "ab235720-a101-4aa6-b092-bc3c5015ba1e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767839609250-0eqfx6radi2p.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "bb9bb4ff-cac2-4e38-811c-da622c78576d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767670874001-zvkhhvatx5.jpg",
+                    "id": "55e01a61-18ef-4b6c-b5de-e9fd27352264",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767839609250-kx50f6h4mbh.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "aa8771d0-7a06-4c37-9d80-17db6c4b1107",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767670874001-piqclbpeppi.jpg",
+                    "id": "67f00048-a81b-4367-942d-491f97484358",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_essence/1767839609250-em5ihcig06.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "프라이빗하게 모든 공간을 즐길 수 있는\n스페이스의 부대시설\n조용하고 편안한 휴식을 즐기세요."
+                "description": "우리만의 공간에서\n아무 방해 없이 흐르는 시간.\n단독 풀빌라에서 완성되는 진짜 쉼"
               },
               "gallery": {
                 "title": "외부의 시선이 닿지 않는, 오직 우리만의 공간",
@@ -1781,31 +1781,45 @@
                 "description": "외부 간섭 없는 완전 독립 객실\n자연만 열어둔 조용한 휴식 공간\n누구의 방해도 없는 우리만의 프라이빗 시네마\n침대에 누워 바라보는 가장 조용한 하늘"
               },
               "signature": {
-                "title": "잠시 걸어가면 만나는, 조용한 계곡",
+                "title": "스페이스 부대시설",
                 "images": [
                   {
-                    "id": "f4af1dfa-118f-49c1-8132-838399fa3abd",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_signature/1767677031755-d4kaugpmhrg.jpg",
+                    "id": "a4ae7e20-8fde-4f1c-b58b-503947a14d4a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_signature/1767839407725-tzfxu8v8qmc.jpg",
                     "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "44c34cd4-74ea-414a-8edc-c323856d701d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_signature/1767839407726-7evpxc3hkap.jpg",
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "925a18c8-32d5-4b75-94fe-492c98547cd3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_signature/1767677031758-pdsa7za5hj.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f4af1dfa-118f-49c1-8132-838399fa3abd",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_signature/1767677031755-d4kaugpmhrg.jpg",
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "7cef3256-bb2d-44d8-8af1-1908d31169d7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/index_signature/1767677031758-qyskaxh8p9.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "조금 걷는 거리, 그만큼 깊어지는 자연\n산책 끝에 만나는 계곡\n머무는 동안 자연은 늘 가까이에"
+                "description": "프라이빗하게 모든 공간을 즐길 수 있는\n단독 바베큐장과 풀장에서의\n조용하고 편안한 휴식을 즐기세요.\n조금 걷는 거리, 그만큼 깊어지는 자연\n산책 끝에 만나는 계곡에서\n머무는 동안 자연은 늘 가까이에"
               }
             }
           ]
