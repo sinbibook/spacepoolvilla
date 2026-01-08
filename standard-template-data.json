@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-01-08T03:22:56.269Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-01-08T03:34:18.155Z",
     "templateType": "fullpage_scroll",
     "propertyId": "515b30ce-fff1-4b10-92d1-6a59e09e3d66",
     "homepageId": "6cfb0351-e290-43e7-a88f-43ffccd118c8"
@@ -1613,8 +1613,8 @@
       {
         "logo": [
           {
-            "id": "284e1175-ffd5-4452-94fb-a251c0a2d1a7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/logo/1767751977647-x5gldlaszvg.png",
+            "id": "71c596a0-3423-4299-b7cd-5d2f2b5c6979",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6cfb0351-e290-43e7-a88f-43ffccd118c8/logo/1767843237236-d4m6drx16ks.png",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
@@ -2098,9 +2098,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -2118,9 +2118,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
