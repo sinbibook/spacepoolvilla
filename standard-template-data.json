@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-01-08T03:34:18.155Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-01-08T06:48:23.730Z",
     "templateType": "fullpage_scroll",
     "propertyId": "515b30ce-fff1-4b10-92d1-6a59e09e3d66",
     "homepageId": "6cfb0351-e290-43e7-a88f-43ffccd118c8"
@@ -200,14 +200,6 @@
     ],
     "refundPolicies": [
       {
-        "refundProcessingDays": 1,
-        "refundRate": 10
-      },
-      {
-        "refundProcessingDays": 0,
-        "refundRate": 0
-      },
-      {
         "refundProcessingDays": 9,
         "refundRate": 90
       },
@@ -238,6 +230,14 @@
       {
         "refundProcessingDays": 2,
         "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
       }
     ],
     "refundSettings": {
