@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-02-19T02:35:19.978Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-03-27T07:01:54.851Z",
     "templateType": "fullpage_scroll",
     "propertyId": "515b30ce-fff1-4b10-92d1-6a59e09e3d66",
     "homepageId": "6cfb0351-e290-43e7-a88f-43ffccd118c8"
@@ -405,10 +405,11 @@
       "name": "스페이스풀빌라01(독채, 개별바베큐)",
       "description": "",
       "roomInfo": "독채형 : 침대룸1(퀸2)+주방1+화장실1+실내수영장+테라스\n\n[인원추가(1박기준/현장결제)]\n- 만 12세 이상~성인 1인 20,000원\n- 24개월~만 12세 미만 1인 10,000원\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
+      "usageGuide": "",
       "group": null,
       "size": 82,
       "baseOccupancy": 2,
-      "maxOccupancy": 4,
+      "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -651,10 +652,11 @@
       "name": "스페이스풀빌라02(독채, 개별바베큐)",
       "description": "\n",
       "roomInfo": "독채형 : 침대룸1(퀸2)+주방1+화장실1+실내수영장+테라스\n\n[인원추가(1박기준/현장결제)]\n- 만 12세 이상~성인 1인 20,000원\n- 24개월~만 12세 미만 1인 10,000원\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
+      "usageGuide": "",
       "group": null,
       "size": 82,
       "baseOccupancy": 2,
-      "maxOccupancy": 4,
+      "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -904,10 +906,11 @@
       "name": "스페이스풀빌라03(독채, 개별바베큐)",
       "description": "\n",
       "roomInfo": "독채형 : 침대룸1(퀸2)+주방1+화장실1+실내수영장+테라스\n\n[인원추가(1박기준/현장결제)]\n- 만 12세 이상~성인 1인 20,000원\n- 24개월~만 12세 미만 1인 10,000원\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
+      "usageGuide": "",
       "group": null,
       "size": 82,
       "baseOccupancy": 2,
-      "maxOccupancy": 4,
+      "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -1143,10 +1146,11 @@
       "name": "스페이스풀빌라04(독채, 개별바베큐)",
       "description": "\n",
       "roomInfo": "독채형 : 침대룸1(퀸2)+주방1+화장실1+실내수영장+테라스\n\n[인원추가(1박기준/현장결제)]\n- 만 12세 이상~성인 1인 20,000원\n- 24개월~만 12세 미만 1인 10,000원\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
+      "usageGuide": "",
       "group": null,
       "size": 82,
       "baseOccupancy": 2,
-      "maxOccupancy": 4,
+      "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -1382,10 +1386,11 @@
       "name": "스페이스풀빌라05(독채, 개별바베큐) ",
       "description": "\n",
       "roomInfo": "독채형 : 침대룸1(퀸2)+주방1+화장실1+실내수영장+테라스\n\n[인원추가(1박기준/현장결제)]\n- 만 12세 이상~성인 1인 20,000원\n- 24개월~만 12세 미만 1인 10,000원\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능",
+      "usageGuide": "",
       "group": null,
       "size": 82,
       "baseOccupancy": 2,
-      "maxOccupancy": 4,
+      "maxOccupancy": 6,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
@@ -3518,7 +3523,6 @@
           ]
         }
       ]
-    },
-    "id": "6cfb0351-e290-43e7-a88f-43ffccd118c8"
+    }
   }
 }
