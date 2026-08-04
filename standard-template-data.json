@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-08-04T08:54:14.243806015Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-08-04T08:55:50.646139480Z",
     "templateType": "fullpage_scroll",
     "propertyId": "515b30ce-fff1-4b10-92d1-6a59e09e3d66",
     "homepageId": "6cfb0351-e290-43e7-a88f-43ffccd118c8"
@@ -19,7 +19,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[펜션 이용 안내 사항]\n- 객실 별 정해진 최대 인원은 초과할 수 없으며, 최대 인원 초과시 입실이 제한됩니다.\n- 애완동물은 동반 입실 하실 수 없습니다. \n- 전 객실의 실내는 금연구역이며, 화재 위험이 있는 촛불 및 폭죽사용, 부탄가스 사용은 금지입니다.\n- 객실 내에서 해산물 및 고기요리와 튀김류 조리는 삼가주시기 바랍니다.\n- 미성년자는 보호자 동반없이 이용하실수 없습니다.\n- 마지막 퇴실시에는 실내에 있는 쓰레기는 분리수거해 버려 주시고 사용하신 식기도 세척해 주시기 바랍니다.\n- 계곡은 글램핑장 외 구역으로 글램핑장에서 책임지지 않습니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가요금]\n- 만 12세 이상~성인 1인 20,000원\n- 24개월~만 12세 미만 1인 10,000원\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능\n\n[개별바베큐]\n[개별바베큐]\n- 숯+그릴이용 : 30,000원\n- 운영시간 : 17:00~21:00 / 숯불 피워주는 시간: 17:00 - 19:00\n- 사전문의 필수\n- 현장결제\n\n[개별수영장]\n- 미온수 추가비용: 60,000원(당일 22시까지 유지)\n- 냉수 추가비용 : 30,000원\n- 운영시간 : 15:00~22:00\n- 이용 복장: 제한없음\n- 입욕제 금지 및 음식물 반입 금지\n- 사전문의 필수\n\n[불멍]\n- 장작비용 : 15,000원\n- 장작구입 가능시간 : 19:00~21:00\n- 운영시간 : 19:00~22:00\n- 운영장소 : 개별 테라스\n- 현장결제\n\n[부대시설]\n[관리실]\n- 운영시간 : 10:00~20:00\n\n[편의 및 주변 시설]\n[편의시설]\n- 전 객실 WiFi 구비\n- 빔프로젝트 구비\n- 펜션 앞 주차장 이용 가능\n\n[교통편]\n- 경주역에서 차량으로 약 30분 거리에 위치해 있습니다.\n- '경북 경주시 산내면 대현리 1958을 입력하시면 산내면사무소 인근의 정확한 위치로 안내받으실 수 있습니다.",
+    "usageGuide": "[공지사항]\n[펜션 이용 안내 사항]\n- 객실 별 정해진 최대 인원은 초과할 수 없으며, 최대 인원 초과시 입실이 제한됩니다.\n- 애완동물은 동반 입실 하실 수 없습니다. \n- 전 객실의 실내는 금연구역이며, 화재 위험이 있는 촛불 및 폭죽사용, 부탄가스 사용은 금지입니다.\n- 객실 내에서 해산물 및 고기요리와 튀김류 조리는 삼가주시기 바랍니다.\n- 미성년자는 보호자 동반없이 이용하실수 없습니다.\n- 마지막 퇴실시에는 실내에 있는 쓰레기는 분리수거해 버려 주시고 사용하신 식기도 세척해 주시기 바랍니다.\n- 계곡은 글램핑장 외 구역으로 글램핑장에서 책임지지 않습니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 12세 이상\n- 아동: 24개월 이상~12세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 만 12세 이상~성인 1인 20,000원\n- 24개월~만 12세 미만 1인 10,000원\n- 영유아 인원수 포함 / 아동,유아 1명만 초과입실 가능\n\n[개별바베큐]\n[개별바베큐]\n- 숯+그릴이용 : 30,000원\n- 운영시간 : 17:00~21:00 / 숯불 피워주는 시간: 17:00 - 19:00\n- 사전문의 필수\n- 현장결제\n\n[개별수영장]\n- 미온수 추가비용: 60,000원(당일 22시까지 유지)\n- 냉수 추가비용 : 30,000원\n- 운영시간 : 15:00~22:00\n- 이용 복장: 제한없음\n- 수영장 크기: 4m X 2m X 1M\n- 입욕제 금지 및 음식물 반입 금지\n- 사전문의 필수\n\n[불멍]\n- 장작비용 : 15,000원\n- 장작구입 가능시간 : 19:00~21:00\n- 운영시간 : 19:00~22:00\n- 운영장소 : 개별 테라스\n- 현장결제\n\n[부대시설]\n[관리실]\n- 운영시간 : 10:00~20:00\n\n[편의 및 주변 시설]\n[편의시설]\n- 전 객실 WiFi 구비\n- 빔프로젝트 구비\n- 펜션 앞 주차장 이용 가능\n\n[교통편]\n- 경주역에서 차량으로 약 30분 거리에 위치해 있습니다.\n- '경북 경주시 산내면 대현리 1958을 입력하시면 산내면사무소 인근의 정확한 위치로 안내받으실 수 있습니다.",
     "reservationGuide": "[펜션 이용 안내 사항]\n- 객실 별 정해진 최대 인원은 초과할 수 없으며, 최대 인원 초과시 입실이 제한됩니다.\n- 애완동물은 동반 입실 하실 수 없습니다. \n- 전 객실의 실내는 금연구역이며, 화재 위험이 있는 촛불 및 폭죽사용, 부탄가스 사용은 금지입니다.\n- 객실 내에서 해산물 및 고기요리와 튀김류 조리는 삼가주시기 바랍니다.\n- 미성년자는 보호자 동반없이 이용하실수 없습니다.\n- 마지막 퇴실시에는 실내에 있는 쓰레기는 분리수거해 버려 주시고 사용하신 식기도 세척해 주시기 바랍니다.\n- 계곡은 글램핑장 외 구역으로 글램핑장에서 책임지지 않습니다.",
     "province": "경상북도",
     "city": "경주시",
@@ -230,7 +230,7 @@
           {
             "id": "41a9c5cd-6c39-4e6d-8eb3-52362ab74b6c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/WZrJ7wKFvUNj.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -240,7 +240,7 @@
           {
             "id": "8751e7d2-dffd-4870-8593-c3f35fe2d695",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/uEzB7jWahqif.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -248,7 +248,7 @@
           {
             "id": "c4ab4bd8-60bb-4d0f-a90e-6cb5f9f58f1a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/0to5yn7vwaOx.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -256,7 +256,7 @@
           {
             "id": "7f7ae5c3-0965-45e2-8b21-ae819eeb7c61",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/GdtPUfQV9wx3.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -264,7 +264,7 @@
           {
             "id": "62fc4ce0-e17e-4209-8c74-db396054e5c9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/54eRu7CdWMkX.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -272,7 +272,7 @@
           {
             "id": "470ccec3-3dc9-4a44-b52f-8e6ed44a1c1c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/LCMsTeIcn48i.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -280,7 +280,7 @@
           {
             "id": "7478efe6-a160-4bc5-a538-571208549371",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/WaRqcGgdlZtY.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -288,7 +288,7 @@
           {
             "id": "35af1c0c-bd43-4399-b6a7-b38cdf57cedf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/RDhFLg7jEAtJ.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -296,7 +296,7 @@
           {
             "id": "583daf7a-2fa1-43f4-8fe2-fae2c37d5607",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/okbsEU9Dv8Ct.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -304,7 +304,7 @@
           {
             "id": "8335a783-6995-45f9-9fdb-9975388adf68",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/BGAai7myL2T1.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -312,7 +312,7 @@
           {
             "id": "cef552f1-96d8-447d-bfc1-80aa065e83ed",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/rpMZjmtXGlaC.jpg",
-            "sortOrder": 9,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -320,7 +320,7 @@
           {
             "id": "03661851-0f11-43c8-93ac-6ff34b900f82",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/69okX4T3Ilpx.jpg",
-            "sortOrder": 10,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -328,7 +328,7 @@
           {
             "id": "bb6f163f-25c3-4d30-aa0c-d6b75e02a491",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/lqCHLVxDwbjK.jpg",
-            "sortOrder": 11,
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -336,7 +336,7 @@
           {
             "id": "245216dd-33f4-4435-81c2-1a29ba300768",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/stzwOKnode4a.jpg",
-            "sortOrder": 12,
+            "sortOrder": 14,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -344,7 +344,7 @@
           {
             "id": "634bacde-c222-4a33-b71a-73843be98a86",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/myoOvCJU0E6V.jpg",
-            "sortOrder": 13,
+            "sortOrder": 15,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -352,7 +352,7 @@
           {
             "id": "1062395e-c56e-4c61-b160-cab6fc160d81",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/guLn5z9WvO8Q.jpg",
-            "sortOrder": 14,
+            "sortOrder": 16,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -360,7 +360,7 @@
           {
             "id": "643a4a71-459a-4524-b436-713267d7a2bd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/3McIDhHuWpZ9.jpg",
-            "sortOrder": 15,
+            "sortOrder": 17,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -368,7 +368,7 @@
           {
             "id": "9f943b99-22a1-4190-9c2c-a1af48547dd4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/13/ukaQgpGoOiKX.jpg",
-            "sortOrder": 16,
+            "sortOrder": 18,
             "description": "",
             "isSelected": true,
             "blockId": null
