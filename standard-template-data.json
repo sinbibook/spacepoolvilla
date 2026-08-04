@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-08-04T08:53:00.289763774Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-08-04T08:54:14.243806015Z",
     "templateType": "fullpage_scroll",
     "propertyId": "515b30ce-fff1-4b10-92d1-6a59e09e3d66",
     "homepageId": "6cfb0351-e290-43e7-a88f-43ffccd118c8"
@@ -67,7 +67,7 @@
       {
         "id": "7a66581b-7a63-443f-bf55-0f2a8d289259",
         "name": "개별바베큐",
-        "description": "프라이빗한 공간에서 여유롭게 즐기는 개별 바비큐\n\n- 숯+그릴이용 : 30,000원\n- 이용시간 : 17:00~21:00 / 숯불 피워주는 시간: 17:00 - 19:00\n- 우천 및 동계시 사용가능",
+        "description": "프라이빗한 공간에서 여유롭게 즐기는 개별 바비큐",
         "usageGuide": "[개별바베큐]\n- 숯+그릴이용 : 30,000원\n- 운영시간 : 17:00~21:00 / 숯불 피워주는 시간: 17:00 - 19:00\n- 사전문의 필수\n- 현장결제",
         "displayOrder": 0,
         "images": [
@@ -124,7 +124,7 @@
       {
         "id": "f2bd5e92-f288-416b-8337-fdd37f211b3a",
         "name": "불멍",
-        "description": "잔잔한 불빛을 바라보며 마음까지 따뜻해지는 힐링의 시간\n\n- 장작비용 : 15,000원\n- 장작구입 가능시간 : 19:00~21:00\n- 이용시간 : 19:00~22:00",
+        "description": "잔잔한 불빛을 바라보며 마음까지 따뜻해지는 힐링의 시간",
         "usageGuide": "- 장작비용 : 15,000원\n- 장작구입 가능시간 : 19:00~21:00\n- 운영시간 : 19:00~22:00\n- 운영장소 : 개별 테라스\n- 현장결제",
         "displayOrder": 1,
         "images": [
@@ -165,71 +165,6 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f2bd5e92-f288-416b-8337-fdd37f211b3a/main/1767841622973-0bxzsuuk9j7.jpg",
             "sortOrder": 4,
             "description": "따듯하게 몸녹이기",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
-        "id": "38179a94-44ba-4696-9301-283c351b03fc",
-        "name": "전 객실 개별수영장",
-        "description": "전 객실마다 마련된 개별 수영장에서 오직 우리만의 프라이빗한 물놀이",
-        "usageGuide": "- 미온수 추가비용: 60,000원(당일 22시까지 유지)\n- 냉수 추가비용 : 30,000원\n- 운영시간 : 15:00~22:00\n- 이용 복장: 제한없음\n- 입욕제 금지 및 음식물 반입 금지\n- 사전문의 필수 ",
-        "displayOrder": 2,
-        "images": [
-          {
-            "id": "42d38af0-e06b-411f-8413-cc38c345eb63",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38179a94-44ba-4696-9301-283c351b03fc/main/1767754908345-ppils11ilzb.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "3d48273f-3f09-4aef-83c3-aae383ee16fc",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38179a94-44ba-4696-9301-283c351b03fc/main/1767754908345-ptq3an9i3t.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "90cf0c91-213c-40d6-b95c-538e9a2beb03",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38179a94-44ba-4696-9301-283c351b03fc/main/1767754908345-udvr4m91xk.jpg",
-            "sortOrder": 2,
-            "description": "실내수영장",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "c13b0aac-30dd-41b3-8363-66e387b31242",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38179a94-44ba-4696-9301-283c351b03fc/main/1767754908346-v6sc5di40er.jpg",
-            "sortOrder": 3,
-            "description": "추운겨울엔 온수풀 이용가능",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "ee5c68a3-a149-4aa8-bbf6-88477afad122",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38179a94-44ba-4696-9301-283c351b03fc/main/1767754908346-if3arl0krw.jpg",
-            "sortOrder": 4,
-            "description": "수영장에서의 아늑한 시간",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "b36e72ae-4660-4a09-915a-ae125af310e2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38179a94-44ba-4696-9301-283c351b03fc/main/1767754908346-u9dlc79rkvj.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "b6112d04-5d5e-499e-bd09-64f2cd30d9e5",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38179a94-44ba-4696-9301-283c351b03fc/main/1767754908346-dr6wh5gzrg5.jpg",
-            "sortOrder": 6,
-            "description": "",
             "isSelected": true,
             "blockId": null
           }
